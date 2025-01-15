@@ -3,7 +3,7 @@ import streamlit as st
 # from snowflake.snowpark.context import get_active_session
 from snowflake.snowpark.functions import col
 # Write directly to the app
-st.title("Smoothie customisation :heart: :frog:")
+st.title("Smoothie customisation :heart: :frog: :frog:")
 st.write(
     """Choose!
     """
